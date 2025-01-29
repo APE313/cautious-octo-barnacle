@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APEL Pay Exclusive</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <h1>Welcome to APEL Pay Exclusive</h1>
+            <p>The ultimate meme coin transforming payments and fun!</p>
+            <a href="#features" class="cta">Learn More</a>
+        </div>
+    </header>
+    
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About APEL Pay Exclusive</h2>
+            <p>APEL Pay Exclusive combines cutting-edge blockchain technology with the meme culture you love. It’s designed for innovators, creators, and trendsetters who want to experience secure, fast, and fun digital transactions.</p>
+        </div>
+    </section>
+
+    <section id="features" class="section dark-bg">
+        <div class="container">
+            <h2>Features</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <h3>Innovative Utility</h3>
+                    <p>Seamless integration with e-commerce, gaming, and digital platforms.</p>
+                </div>
+                <div class="feature">
+                    <h3>Community-Driven</h3>
+                    <p>Join a growing community shaping the future of finance.</p>
+                </div>
+                <div class="feature">
+                    <h3>Exclusive & Scarce</h3>
+                    <p>Limited supply to drive value and ensure exclusivity.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="roadmap" class="section">
+        <div class="container">
+            <h2>Roadmap</h2>
+            <ul>
+                <li><strong>Q1:</strong> Launch of APEL Pay Exclusive</li>
+                <li><strong>Q2:</strong> Integration with major platforms</li>
+                <li><strong>Q3:</strong> Expanding community and partnerships</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contact" class="section dark-bg">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Have questions? Join our community or drop us a message.</p>
+            <a href="#" class="cta">Join the Community</a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2025 APEL Pay Exclusive. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
